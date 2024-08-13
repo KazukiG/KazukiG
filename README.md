@@ -21,3 +21,6 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Unity](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+## 🧡 Interesting Contributions
+[![Microsoft](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=EasyRepro&theme=slateorange&show_owner=true)](https://github.com/microsoft/EasyRepro/pull/1429)
